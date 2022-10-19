@@ -1,0 +1,19 @@
+$primary: #6788e6;
+$white: #fff;
+
+body {
+    text-align: center;
+}
+
+button {
+  width: 30%;
+  background-color: $primary;
+  color: $white;
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 10px;
+}
+
+img {
+    padding-top: 30px;
+}
